@@ -2,7 +2,7 @@
 step 1:
 git bash here, enter: git clone + your repository link
 ex: git clone https://github.com/luongvinhlong9/howToCommit.git
-
+if you wanna clone branch, enter: git clone + yourRepository link -b + branchName
 step 2:
 go to your folder that cloned, open cmd
 
