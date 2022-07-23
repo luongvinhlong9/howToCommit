@@ -29,4 +29,8 @@ step 7:
 enter: git push origin yourBranchName
 ex: git push origin main
 
+
+if you wanna update your project that changed by orther devetopers
+enter: git pull origin + yourBranchName
+ex: git pull origin main
 DONE!! GOOD LUCK ^_^
